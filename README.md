@@ -2,3 +2,5 @@
 test repo
 
 Added new line
+
+Feature 2
